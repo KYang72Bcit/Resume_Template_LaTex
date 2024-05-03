@@ -10,6 +10,10 @@ This LaTeX resume template is a customizable document for creating professional 
 - **Font Awesome integration**: Includes icons to add visual cues to your resume.
 - **Responsive design**: Optimized for both digital viewing and print.
 
+## Sample Resume
+
+<img width="617" alt="image" src="https://github.com/KYang72Bcit/Resume_Template_LaTex/assets/90719969/084e7293-c99e-4a20-8d5d-a40410828419">
+
 ## Getting Started
 
 To use this template, you will need a LaTeX environment set up on your computer. This template is compatible with XeLaTeX, which is recommended for its better font handling capabilities.
@@ -41,10 +45,6 @@ To use this template, you will need a LaTeX environment set up on your computer.
 ### Customization
 
 Modify `resume.tex` with your personal information and compile the document as described above. You can add or remove sections as needed by editing the `.tex` file.
-
-### Sample Resume
-
-<img width="617" alt="image" src="https://github.com/KYang72Bcit/Resume_Template_LaTex/assets/90719969/084e7293-c99e-4a20-8d5d-a40410828419">
 
 ## Acknowledgments
 
