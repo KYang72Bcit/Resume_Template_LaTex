@@ -8,8 +8,6 @@
 \RequirePackage{xltxtra}
 % use xifthen
 \RequirePackage{xifthen}
-% use progress bar for skill
-\RequirePackage{progressbar}
 % use hyperlink for email and url
 % \RequirePackage{hyperref}
 \RequirePackage[hidelinks]{hyperref}
