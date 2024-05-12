@@ -14,6 +14,10 @@ This LaTeX resume template is a customizable document for creating professional 
 
 <img width="617" alt="image" src="https://github.com/KYang72Bcit/Resume_Template_LaTex/assets/90719969/084e7293-c99e-4a20-8d5d-a40410828419">
 
+## Sample Cover Letter
+<img width="480" alt="image" src="https://github.com/KYang72Bcit/Resume_Template_LaTex/assets/90719969/20215416-80d4-4a7f-bb38-c4cbd811828b">
+
+
 ## Getting Started
 
 To use this template, you will need a LaTeX environment set up on your computer. This template is compatible with XeLaTeX, which is recommended for its better font handling capabilities.
