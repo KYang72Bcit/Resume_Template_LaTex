@@ -15,7 +15,8 @@ This LaTeX resume template is a customizable document for creating professional 
 <img width="617" alt="image" src="https://github.com/KYang72Bcit/Resume_Template_LaTex/assets/90719969/084e7293-c99e-4a20-8d5d-a40410828419">
 
 ## Sample Cover Letter
-<img width="480" alt="image" src="https://github.com/KYang72Bcit/Resume_Template_LaTex/assets/90719969/20215416-80d4-4a7f-bb38-c4cbd811828b">
+<img width="496" alt="image" src="https://github.com/KYang72Bcit/Resume_Template_LaTex/assets/90719969/5888b8c0-f074-48c3-a6b9-97618fc4308c">
+
 
 
 ## Getting Started
